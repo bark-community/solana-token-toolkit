@@ -2,7 +2,7 @@
 
 ![Solana Token Creation Toolkit Logo](solana_token_creation_toolkit_logo.png)
 
-Welcome to the Solana Token Creation Toolkit repository! This project offers a comprehensive set of tools, scripts, and utilities for creating and managing tokens on the Solana blockchain. Whether you're deploying tokens for decentralized finance (DeFi) projects, non-fungible tokens (NFTs), or other applications, the Solana Token Creation Toolkit provides essential functionalities to streamline the process.
+Welcome to the Solana Token Creation Toolkit repository! This project offers a comprehensive set of tools, scripts, and utilities for creating and managing tokens on the Solana blockchain. Whether you're deploying SPL tokens for decentralized finance (DeFi) projects, non-fungible tokens (NFTs), or other applications, the Solana Token Creation Toolkit provides essential functionalities to streamline the process.
 
 ## Project Structure
 
@@ -16,11 +16,11 @@ The `mpl-metadata` folder contains scripts and configurations related to managin
 
 The `spl-token` folder houses scripts and configurations for managing tokens using the `spl-token` program. This program provides functionality for creating, minting, transferring, and burning tokens on the Solana blockchain.
 
-### spl-2022-token
+### spl-2022-token (Extensions)
 
-In the `spl-2022-token` folder, you'll find scripts and configurations for managing tokens using the `spl-2022-token` program. This program, optimized for the year 2022, offers additional features and optimizations for token management.
+In the `spl-2022-token` folder, you'll find scripts and configurations for managing SPL tokens using the `spl-2022-token` Extension program. This program offers additional features and optimizations for SPL token management.
 
-### solanatx-toolkit
+### solanaTX-toolkit
 
 The `solanatx-toolkit` folder contains scripts and utilities from the SolanaTX Toolkit, which provides essential functionalities for transaction management and metadata uploads on the Solana blockchain. This toolkit offers helper functions such as initializing keypairs, automating SOL airdrops, and simplifying metadata uploads.
 
